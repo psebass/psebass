@@ -2,9 +2,9 @@ Pablo Spitale
 
 Un poco de mi...
 
-Me gusta construir cosas útiles con tecnología, principalmente usando Python.
+Apasionado de las ciencias de la computación.
 
-Trabajo en automatización de procesos, generación de reportes y aplicaciones web simples, tratando siempre de mejorar cómo se despliegan y mantienen (DevOps / DevSecOps).
+Trabajo en automatización de procesos, generación de reportes, desarrollo de aplicaciones e integraciones tratando siempre de mejorar cómo se despliegan y mantienen (DevOps / DevSecOps).
 
 Últimamente estoy enfocado en:
 
